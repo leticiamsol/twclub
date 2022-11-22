@@ -486,7 +486,7 @@ form textarea {
     font-size: 16px;
     background: var(--main-color);
     color: var(--text-color);
-    width: 160px;
+    width: 200px;
     transition: all .45s ease;
 }
 

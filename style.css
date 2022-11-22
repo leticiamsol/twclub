@@ -478,7 +478,7 @@ form textarea {
 
 .contact-form textarea {
     resize: none;
-    height: 240px;
+    height: 120px;
 }
 
 .contact-form .submit {

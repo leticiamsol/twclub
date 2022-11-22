@@ -563,7 +563,7 @@ form textarea {
 		text-align: center;
 		order: 2;
 	}
-	.about-img img{
+	.about-img img {
 		width: 100%;
 		height: auto;
 		max-width: 100%;
@@ -571,6 +571,9 @@ form textarea {
 	.contact{
 		grid-template-columns: 1fr;
 	}
+    .button .btn {
+        display: none;
+    }
 }
 
 @media (max-width: 840px){

@@ -567,6 +567,7 @@ form textarea {
 		width: 100%;
 		height: auto;
 		max-width: 100%;
+        margin-top: 30px;
 	}
 	.contact{
 		grid-template-columns: 1fr;
